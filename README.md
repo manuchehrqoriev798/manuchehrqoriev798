@@ -18,24 +18,35 @@
   <a href="https://www.linkedin.com/in/manuchehr-qoriev-86b985265/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"></a> |
   <a href="https://personal-website-qoriev-manuchehr.vercel.app/"><img src="https://img.shields.io/badge/Personal-Website-orange?style=for-the-badge&logo=earth" alt="Personal Website"></a>
 </p>
-## Technical Skills
 
-- **Languages**: 
-  - Python ![Python](https://example.com/python-icon.png)
-  - HTML/CSS ![HTML/CSS](https://example.com/html-css-icon.png)
-  - JavaScript ![JavaScript](https://example.com/javascript-icon.png)
-- **Tools/Libraries**: 
-  - Git ![Git](https://example.com/git-icon.png)
-  - GitHub ![GitHub](https://example.com/github-icon.png)
-  - DeepFace ![DeepFace](https://example.com/deepface-icon.png)
-  - TensorFlow ![TensorFlow](https://example.com/tensorflow-icon.png)
-  - Pandas ![Pandas](https://example.com/pandas-icon.png)
-  - Numpy ![Numpy](https://example.com/numpy-icon.png)
-  - Linux ![Linux](https://example.com/linux-icon.png)
-  - Flask ![Flask](https://example.com/flask-icon.png)
-  - OpenCV ![OpenCV](https://example.com/opencv-icon.png)
-  - Bootstrap ![Bootstrap](https://example.com/bootstrap-icon.png)
-  - jQuery ![jQuery](https://example.com/jquery-icon.png)
-  - Swiper.js ![Swiper.js](https://example.com/swiperjs-icon.png)
-  - Mixitup ![Mixitup](https://example.com/mixitup-icon.png)
-  - ScrollReveal ![ScrollReveal](https://example.com/scrollreveal-icon.png)
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt "css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+...
+
