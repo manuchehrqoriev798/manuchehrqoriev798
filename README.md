@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
-
+<!--
 <p align="center">
   <img src="https://your-profile-image-url" alt="Your Name" width="200">
 </p>
-
+-->
 <p align="center">
   Full-stack Developer | ChatGBT Developer | Machine Learning Engineer
 </p>
@@ -20,33 +20,43 @@
 </p>
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<div align="center">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt "css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img src="YOUR_DEEPFACE_ICON_URL" height="30" alt="DeepFace logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img src="YOUR_TENSORFLOW_ICON_URL" height="30" alt="TensorFlow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img src="YOUR_PANDAS_ICON_URL" height="30" alt="Pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="YOUR_NUMPY_ICON_URL" height="30" alt="Numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img src="YOUR_LINUX_ICON_URL" height="30" alt="Linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="YOUR_OPENCV_ICON_URL" height="30" alt="OpenCV logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="YOUR_BOOTSTRAP_ICON_URL" height="30" alt="Bootstrap logo"  />
+  <img width="12" />
+  <img src="YOUR_JQUERY_ICON_URL" height="30" alt="jQuery logo"  />
+  <img width="12" />
+  <img src="YOUR_SWIPERJS_ICON_URL" height="30" alt="Swiper.js logo"  />
+  <img width="12" />
+  <img src="YOUR_MIXITUP_ICON_URL" height="30" alt="Mixitup logo"  />
+  <img width="12" />
+  <img src="YOUR_SCROLLREVEAL_ICON_URL" height="30" alt="ScrollReveal logo"  />
 </div>
 
-...
+</div>
+
 
