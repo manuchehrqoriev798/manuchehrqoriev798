@@ -5,7 +5,7 @@
 </p>
 -->
 <p align="center">
-  Full-stack Developer | ChatGBT Developer | Machine Learning Engineer
+  Full-stack Developer | Machine Learning Engineer
 </p>
 
 <p align="center">
