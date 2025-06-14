@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  Things may be challenging and pressuring, but what's the point of being sad? It doesn't make it better. 
+  Stay positive-minded, be realistic, and hopefully You've got this! 💪
+</p>
+
+<p align="center">
   📫 <a href="mailto:manuchehrqoriev798@gmail.com">Email</a> |
   🌐 <a href="https://personal-website-qoriev-manuchehr.vercel.app/">Personal Website</a>
 </p>
