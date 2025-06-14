@@ -1,12 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  Take a moment to smile and be grateful for everything. Wishing you a wonderful day! 🌟
-</p>
-
-<p align="center">
-  Things may be challenging and pressuring, but what's the point of being sad? It doesn't make it better. 
-  Stay positive-minded, be realistic, and hopefully You've got this! 💪
+  Take a moment to be grateful for everything. Wishing you a wonderful day! 🌟
 </p>
 
 <p align="center">
