@@ -5,17 +5,51 @@
 </p>
 
 <p align="center">
-  <a href="https://personal-website-qoriev-manuchehr.vercel.app/">
-    <img src="personal-website-badge.svg" alt="Personal Website" height="28" style="vertical-align: middle;"/>
+  <!-- Personal Website -->
+  <a href="https://personal-website-qoriev.manuchehr.vercel.app/" style="margin-right:4px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="160" height="28">
+      <defs>
+        <linearGradient id="grad1" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#f70178"/>
+          <stop offset="51%" stop-color="#a0089c"/>
+          <stop offset="100%" stop-color="#630db2"/>
+        </linearGradient>
+      </defs>
+      <rect rx="6" ry="6" width="160" height="28" fill="url(#grad1)"/>
+      <text x="50%" y="50%" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle" alignment-baseline="middle">
+        Personal Website
+      </text>
+    </svg>
   </a>
-  <a href="mailto:manuchehrqoriev798@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="28" style="vertical-align: middle;"/>
+
+  <!-- Email -->
+  <a href="mailto:manuchehrqoriev798@gmail.com" style="margin-right:4px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="160" height="28">
+      <rect rx="6" ry="6" width="160" height="28" fill="#D14836"/>
+      <text x="50%" y="50%" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle" alignment-baseline="middle">
+        Email
+      </text>
+    </svg>
   </a>
-  <a href="https://www.linkedin.com/in/manuchehr-qoriev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="vertical-align: middle;"/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/manuchehr-qoriev/" style="margin-right:4px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="160" height="28">
+      <rect rx="6" ry="6" width="160" height="28" fill="#0077B5"/>
+      <text x="50%" y="50%" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle" alignment-baseline="middle">
+        LinkedIn
+      </text>
+    </svg>
   </a>
+
+  <!-- Telegram -->
   <a href="https://t.me/manuchehr0">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" height="28" style="vertical-align: middle;"/>
+    <svg xmlns="http://www.w3.org/2000/svg" width="160" height="28">
+      <rect rx="6" ry="6" width="160" height="28" fill="#2CA5E0"/>
+      <text x="50%" y="50%" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle" alignment-baseline="middle">
+        Telegram
+      </text>
+    </svg>
   </a>
 </p>
 
