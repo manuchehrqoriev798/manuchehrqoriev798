@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://personal-website-qoriev.manuchehr.vercel.app/">
-    <img src="personal-website.svg" alt="Personal Website" height="28" style="vertical-align: middle;"/>
+    <img src="personal-website-badge.svg" alt="Personal Website" height="28" style="vertical-align: middle;"/>
   </a>
   <a href="mailto:manuchehrqoriev798@gmail.com">
     <img src="email.svg" alt="Email" height="28" style="vertical-align: middle;"/>
