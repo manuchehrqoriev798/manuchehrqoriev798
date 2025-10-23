@@ -4,18 +4,18 @@
   Take a moment to be grateful for everything. Wishing you a wonderful day! 🌟
 </p>
 
-<p align="center">
-  <a href="https://personal-website-qoriev-manuchehr.vercel.app/" style="text-decoration:none;">
-    <span style="background: linear-gradient(180deg, rgba(247, 1, 120, 1) 0%, rgba(160, 8, 156, 1) 51%, rgba(99, 13, 178, 1) 100%);
+<p align="center" style="font-family: Arial, sans-serif;">
+  <a href="https://personal-website-qoriev-manuchehr.vercel.app/" style="text-decoration: none;">
+    <span style="background: linear-gradient(180deg, rgba(247,1,120,1) 0%, rgba(160,8,156,1) 51%, rgba(99,13,178,1) 100%);
                  color: white;
-                 padding: 6px 14px;
+                 padding: 6px 12px;
                  border-radius: 6px;
                  font-weight: 600;
-                 font-family: Arial, sans-serif;">
+                 display: inline-block;">
       Personal Website
     </span>
   </a> |
-  <a href="mailto:manuchehrqoriev798@gmail.com">
+  <a href="mailto:manuchehrqoriev798@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a> |
   <a href="https://www.linkedin.com/in/manuchehr-qoriev/">
