@@ -9,13 +9,13 @@
     <img src="personal-website-badge.svg" alt="Personal Website" height="28" style="vertical-align: middle;"/>
   </a>
   <a href="mailto:manuchehrqoriev798@gmail.com">
-    <img src="email.svg" alt="Email" height="28" style="vertical-align: middle;"/>
+    <img src="svg-badges/email-badge.svg" alt="Email" height="28" style="vertical-align: middle;"/>
   </a>
   <a href="https://www.linkedin.com/in/manuchehr-qoriev/">
-    <img src="linkedin.svg" alt="LinkedIn" height="28" style="vertical-align: middle;"/>
+    <img src="svg-badges/linkedin-badge.svg" alt="LinkedIn" height="28" style="vertical-align: middle;"/>
   </a>
   <a href="https://t.me/manuchehr0">
-    <img src="telegram.svg" alt="Telegram" height="28" style="vertical-align: middle;"/>
+    <img src="svg-badges/telegram-badge.svg" alt="Telegram" height="28" style="vertical-align: middle;"/>
   </a>
 </p>
 
