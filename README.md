@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://personal-website-qoriev.manuchehr.vercel.app/"><img src="personal-website-badge.svg" alt="Personal Website" height="28" style="vertical-align: middle; margin-right: 10px;"/></a><a href="mailto:manuchehrqoriev798@gmail.com"><img src="svg-badges/email-badge.svg" alt="Email" height="28" style="vertical-align: middle; margin-right: 10px;"/></a><a href="https://www.linkedin.com/in/manuchehr-qoriev/"><img src="svg-badges/linkedin-badge.svg" alt="LinkedIn" height="28" style="vertical-align: middle; margin-right: 10px;"/></a><a href="https://t.me/manuchehr0"><img src="svg-badges/telegram-badge.svg" alt="Telegram" height="28" style="vertical-align: middle;"/></a>
+  <a href="https://personal-website-qoriev.manuchehr.vercel.app/"><img src="personal-website-badge.svg" alt="Personal Website" height="28" style="vertical-align: middle;"/></a> &nbsp; <a href="mailto:manuchehrqoriev798@gmail.com"><img src="svg-badges/email-badge.svg" alt="Email" height="28" style="vertical-align: middle;"/></a> &nbsp; <a href="https://www.linkedin.com/in/manuchehr-qoriev/"><img src="svg-badges/linkedin-badge.svg" alt="LinkedIn" height="28" style="vertical-align: middle;"/></a> &nbsp; <a href="https://t.me/manuchehr0"><img src="svg-badges/telegram-badge.svg" alt="Telegram" height="28" style="vertical-align: middle;"/></a>
 </p>
 
 
