@@ -4,21 +4,18 @@
   Take a moment to be grateful for everything. Wishing you a wonderful day! 🌟
 </p>
 
-<p align="center" style="font-family: Arial, sans-serif;">
-  <a href="https://personal-website-qoriev-manuchehr.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img alt="Personal Website" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAxNjAgMjgiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iUGVyc29uYWwgV2Vic2l0ZSI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB4Mj0iMCIgeTE9IjAiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSJyZ2JhKDAsMCwwLDAsMCkiIC8+CiICAgICAgPHN0b3Agb2Zmc2V0PSIwLjUxIiBzdG9wLWNvbG9yPSJyZ2JhKDAsMCwwLDAsMCkiIC8+CiICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSJyZ2JhKDAsMCwwLDAsMCkiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCByeD0iNiIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIyOCIgcmlsbD0idXJsKCNnKSIgLz4KICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgYWxpZ25tZW50LWJhc2VsaW5lPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICAgIGZpbGw9IiNmZmZmZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiI+UGVyc29uYWwgV2Vic2l0ZTwvdGV4dD4KPC9zdmc+" style="vertical-align: middle; border: 0;"/>
-  </a>
-  &nbsp;|
-  &nbsp;<a href="mailto:manuchehrqoriev798@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle; border:0;"/>
-  </a>
-  &nbsp;|
-  &nbsp;<a href="https://www.linkedin.com/in/manuchehr-qoriev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; border:0;"/>
-  </a>
-  &nbsp;|
-  &nbsp;<a href="https://t.me/manuchehr0">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" style="vertical-align: middle; border:0;"/>
+<p align="center">
+  <a href="https://personal-website-qoriev-manuchehr.vercel.app/">
+    <img src="personal-website-badge.svg" alt="Personal Website" />
+  </a> |
+  <a href="mailto:manuchehrqoriev798@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a> |
+  <a href="https://www.linkedin.com/in/manuchehr-qoriev/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> |
+  <a href="https://t.me/manuchehr0">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
