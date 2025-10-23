@@ -5,8 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://personal-website-qoriev-manuchehr.vercel.app/">
-    <img src="https://img.shields.io/badge/Personal%20Website-000000?logo=About.me&logoColor=white" alt="Personal Website" />
+  <a href="https://personal-website-qoriev-manuchehr.vercel.app/" style="text-decoration:none;">
+    <span style="background: linear-gradient(180deg, rgba(247, 1, 120, 1) 0%, rgba(160, 8, 156, 1) 51%, rgba(99, 13, 178, 1) 100%);
+                 color: white;
+                 padding: 6px 14px;
+                 border-radius: 6px;
+                 font-weight: 600;
+                 font-family: Arial, sans-serif;">
+      Personal Website
+    </span>
   </a> |
   <a href="mailto:manuchehrqoriev798@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
@@ -18,6 +25,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
+
 
 
 
