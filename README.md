@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi there 👋</h1>
   <p><em>Take a moment to be grateful for everything. Wishing you a wonderful day! 🌟</em></p>
 </div>
 
@@ -36,9 +35,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4C00?style=for-the-badge&logo=argo&logoColor=white) 
 ![K9s](https://img.shields.io/badge/K9s-1E1E1E?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka) 
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
